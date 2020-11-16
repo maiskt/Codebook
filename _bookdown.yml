@@ -1,6 +1,6 @@
 book_filename: "bookdown-start"
 chapter_name: "Section "
-repo: https://github.com/maiskt/maiskt.github.io/tree/master/Codebook
+repo: https://github.com/maiskt/maiskt.github.io
 output_dir: docs
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
