@@ -11,7 +11,6 @@ ppi_prob
 poverty1
 poverty2
 demographics
-age
 age_group
 edu
 id
@@ -70,7 +69,7 @@ financial_stage
 banking-services
 access_bank
 registered_bank
-active_bank
+recent_bank_user
 active30_bank
 inactive_bank
 bank_basic
@@ -117,7 +116,7 @@ aware_mm_provider
 aware_nonuser_mm
 access_mm
 registered_mm
-active_mm
+recent_mm_user
 active30_mm
 inactive_mm
 dormant_mm
@@ -167,7 +166,7 @@ access_nbfi_all
 registered_nbfi
 registered_nbfi_all
 reg_dfs_nbfi
-active_nbfi
+recent_nbfi_user
 active_nbfi_all
 active30_nbfi
 inactive_nbfi

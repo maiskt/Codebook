@@ -40,7 +40,7 @@ Levels:
 + Yes  
 + No
 
-## ACTIVE_NBFI
+## RECENT_NBFI_USER
 Used a full-service non-bank financial account in the past 90 days: counts respondents who have an account/membership with a full-service non-bank financial institution and have used their account in the last 90 days before the survey.
 
 Levels:
