@@ -22,7 +22,7 @@ Levels
 * No
        
        
-## ACTIVE_BANK
+## RECENT_BANK_USER
 
 Active bank account use in last 90 days: Counts individual who have an account registered in their name with a full-service bank and have used it in the last 90 days before the survey. 
       

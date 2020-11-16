@@ -2,10 +2,6 @@
 
 
 
-## AGE
-Respondent's age, derived from birth year and survey year. 
-
-
 ## AGE_GROUP
 
  10-year age group, derived from AGE.
