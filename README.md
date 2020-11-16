@@ -1,3 +1,3 @@
 # FII Datathon Homepage
 
-[**View the codebook here**](https://datathonfii.github.io/Codebook/docs/index.html)
+[**View the codebook here**](https://maiskt.github.io/docs/index.html)
