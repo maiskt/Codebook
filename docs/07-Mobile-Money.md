@@ -40,7 +40,7 @@ Levels:
 + Yes
 + No
 
-## RECENT_MM_USER
+## RECENT_MM_USE
 Mobile money use in last 90 days: counts respondents who used their registered mobile money account in the last 90 days.
 
 Levels:

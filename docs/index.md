@@ -7,8 +7,8 @@ documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: FIIDatathon/Codebook
-url: 'http://github.com/maiskt/FII_Codebook/'
+github-repo: maiskt/FII_Codebook
+url: 'http\://maiskt.github.io/Codebook/'
 description: "Documentation for the FII Datathon dataset"
 ---
 

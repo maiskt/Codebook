@@ -69,7 +69,7 @@ financial_stage
 banking-services
 access_bank
 registered_bank
-recent_bank_user
+recent_bank_use
 active30_bank
 inactive_bank
 bank_basic
@@ -116,7 +116,7 @@ aware_mm_provider
 aware_nonuser_mm
 access_mm
 registered_mm
-recent_mm_user
+recent_mm_use
 active30_mm
 inactive_mm
 dormant_mm
@@ -166,7 +166,7 @@ access_nbfi_all
 registered_nbfi
 registered_nbfi_all
 reg_dfs_nbfi
-recent_nbfi_user
+recent_nbfi_use
 active_nbfi_all
 active30_nbfi
 inactive_nbfi
